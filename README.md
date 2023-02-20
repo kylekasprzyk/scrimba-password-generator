@@ -13,9 +13,9 @@
 
 ### Screenshot
 
-![](./images/Empty%20State.jpg)
+![](./Images/Empty%20State.jpg)
 
-![](./images/Populated%20State.jpg)
+![](./Images/Populated%20State.jpg)
 
 ### Links
 
