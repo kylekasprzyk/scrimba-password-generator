@@ -19,7 +19,7 @@
 
 ### Links
 
-- Live Site URL: [https://kylekasprzyk.github.io/scrimba-password-generator/](https://kylekasprzyk.github.io/scrimba-password-generator/){:target="_blank"}
+- Live Site URL: [https://kylekasprzyk.github.io/scrimba-password-generator/](https://kylekasprzyk.github.io/scrimba-password-generator/)
 
 ## My process
 
